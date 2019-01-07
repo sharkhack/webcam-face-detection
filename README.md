@@ -2,8 +2,11 @@
 Webcam face and eye detection with OpenCV
 
 python webcam_face_1.py
+
 python webcam_face_to_log.py
+
 python webcam_face_and_eye.py
+
 
 tested on macOS and Linux
 
